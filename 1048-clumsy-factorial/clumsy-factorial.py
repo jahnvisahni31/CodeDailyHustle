@@ -1,21 +1,17 @@
 class Solution:
     def clumsy(self, n: int) -> int:
-        stack = [n]
-        n -= 1
-        operations = ['*', '/', '+', '-']
-        op_index = 0
-
-        while n > 0:
-            if operations[op_index] == '*':
-                stack[-1] *= n
-            elif operations[op_index] == '/':
-                stack[-1] = int(stack[-1] / n)
-            elif operations[op_index] == '+':
-                stack.append(n)
-            elif operations[op_index] == '-':
-                stack.append(-n)
-
-            n -= 1
-            op_index = (op_index + 1) % 4
-
-        return sum(stack)
+        if n == 1:
+            return 1
+        elif n == 2:
+            return 2
+        elif n == 3:
+            return 6
+        elif n == 4:
+            return 7
+        else:
+            if n % 4 == 0:
+                return n + 1
+            elif n % 4 <= 2:
+                return n + 2
+            else:
+                return n - 1
