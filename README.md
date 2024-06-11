@@ -8,10 +8,12 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1137-height-checker](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1217-relative-sort-array) |
 # Hash Table
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1217-relative-sort-array](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1217-relative-sort-array) |
 # Prefix Sum
 |  |
 | ------- |
@@ -20,10 +22,12 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1217-relative-sort-array) |
 # Counting Sort
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1217-relative-sort-array) |
 # Stack
 |  |
 | ------- |
