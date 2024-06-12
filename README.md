@@ -4,6 +4,7 @@
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0075-sort-colors) |
 | [0971-shortest-bridge](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0971-shortest-bridge) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -21,6 +22,7 @@
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0075-sort-colors) |
 | [1137-height-checker](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1217-relative-sort-array) |
 # Counting Sort
@@ -60,3 +62,7 @@
 |  |
 | ------- |
 | [0971-shortest-bridge](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0971-shortest-bridge) |
+# Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0075-sort-colors) |
