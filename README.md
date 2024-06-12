@@ -15,6 +15,7 @@
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1217-relative-sort-array) |
+| [3412-permutation-difference-between-two-strings](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 # Prefix Sum
 |  |
 | ------- |
@@ -66,3 +67,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0075-sort-colors) |
+# String
+|  |
+| ------- |
+| [3412-permutation-difference-between-two-strings](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/3412-permutation-difference-between-two-strings) |
