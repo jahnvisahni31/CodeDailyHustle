@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0502-ipo) |
 | [0971-shortest-bridge](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0971-shortest-bridge) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1217-relative-sort-array) |
@@ -79,5 +81,10 @@
 # Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0502-ipo) |
