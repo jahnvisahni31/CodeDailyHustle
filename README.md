@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0075-sort-colors) |
+| [0330-patching-array](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0502-ipo) |
 | [0971-shortest-bridge](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0971-shortest-bridge) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -81,6 +82,7 @@
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
