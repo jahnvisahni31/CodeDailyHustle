@@ -50,6 +50,7 @@
 # Binary Search Tree
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 # Monotonic Stack
 |  |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0633-sum-of-square-numbers) |
 # String
 |  |
 | ------- |
@@ -90,3 +92,7 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0502-ipo) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0633-sum-of-square-numbers) |
