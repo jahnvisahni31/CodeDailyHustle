@@ -7,6 +7,7 @@
 | [0075-sort-colors](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0075-sort-colors) |
 | [0330-patching-array](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0971-shortest-bridge](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0971-shortest-bridge) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0075-sort-colors) |
 | [0502-ipo](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1217-relative-sort-array) |
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 # Monotonic Stack
 |  |
@@ -77,6 +80,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0853-most-profit-assigning-work) |
 # String
 |  |
 | ------- |
@@ -86,6 +90,7 @@
 | ------- |
 | [0330-patching-array](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Heap (Priority Queue)
