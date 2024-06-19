@@ -14,6 +14,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1137-height-checker](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1217-relative-sort-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
@@ -55,6 +56,7 @@
 | [0633-sum-of-square-numbers](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Monotonic Stack
 |  |
 | ------- |
