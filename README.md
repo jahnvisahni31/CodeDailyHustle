@@ -23,6 +23,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0012-integer-to-roman) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -93,6 +94,7 @@
 # String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0012-integer-to-roman) |
 | [3412-permutation-difference-between-two-strings](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 # Greedy
 |  |
@@ -109,6 +111,7 @@
 # Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0012-integer-to-roman) |
 | [0633-sum-of-square-numbers](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Sliding Window
