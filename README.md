@@ -16,6 +16,7 @@
 | [1138-grumpy-bookstore-owner](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -115,3 +116,4 @@
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
