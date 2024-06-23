@@ -21,6 +21,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 # Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0012-integer-to-roman) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 # Greedy
 |  |
