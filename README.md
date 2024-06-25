@@ -61,12 +61,14 @@
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Monotonic Stack
@@ -77,10 +79,12 @@
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0971-shortest-bridge](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0971-shortest-bridge) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Breadth-First Search
 |  |
 | ------- |
