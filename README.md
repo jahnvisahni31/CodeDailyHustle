@@ -62,6 +62,7 @@
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0853-most-profit-assigning-work](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Monotonic Stack
@@ -80,11 +82,13 @@
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0971-shortest-bridge](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0971-shortest-bridge) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -112,6 +116,7 @@
 | [0502-ipo](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Heap (Priority Queue)
 |  |
@@ -149,3 +154,7 @@
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1285-balance-a-binary-search-tree) |
