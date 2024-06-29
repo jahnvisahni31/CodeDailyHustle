@@ -90,10 +90,12 @@
 | [0971-shortest-bridge](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0971-shortest-bridge) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0971-shortest-bridge](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/0971-shortest-bridge) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 # Matrix
 |  |
 | ------- |
@@ -164,5 +166,10 @@
 # Graph
 |  |
 | ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1916-find-center-of-star-graph](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+# Topological Sort
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/jahnvisahni31/DailyCoding-leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
